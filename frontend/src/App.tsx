@@ -1,10 +1,7 @@
-import React from 'react'
-import './App.css'
-
 function App() {
   return (
     <div className='App'>
-      <p>DevSuperior</p>
+      <h1>DevSuperior</h1>
     </div>
   )
 }
